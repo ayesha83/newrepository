@@ -1,0 +1,43 @@
+*{
+    background-color: beige;
+}
+
+.header, .footer{
+    /* background-color: grey; */
+    color:black;
+    /* padding: 15px; */
+}
+
+#mainHeading{
+    color:#0c4560;
+    text-align: center;
+    padding-bottom: 40px;
+}
+hr{
+    width:70%
+}
+
+.h-font{
+    font-family: 'ABeeZee';font-size: 22px;
+    color: black;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.buttons{
+    background-color:purple;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
